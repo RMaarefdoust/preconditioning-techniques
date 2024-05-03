@@ -1,6 +1,6 @@
 # Preconditioning Techniques for Conjugate Gradient Method
 
-**Abstract:**
+**Summary:**
 The Conjugate Gradient (CG) method is a powerful iterative tool extensively used in various fields to solve large sets of mathematical problems efficiently. Preconditioning techniques serve as aides to enhance the CG method's performance by modifying the mathematical problems, making them easier to solve. This study explores and compares three preconditioning techniques - Jacobi, Gauss-Seidel, and incomplete LU/Cholesky - to identify the most effective approach. Through experimentation and analysis, Jacobi preconditioning emerges as the most beneficial, improving both speed and accuracy in problem-solving.
 
 **Preconditioning Technique:**
